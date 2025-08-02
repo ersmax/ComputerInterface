@@ -1,1 +1,8 @@
-# ComputerInterface
+# The effect of two interfaces, web and mobile, on human performance and perception with two respective control devices: indirect input (touchpad) and direct input (touchscreen).
+
+It is undeniable the increased need of traveling after the pandemic crisis ended. While the old way of searching hotels, flights and activities through a web interface remains, new solutions appeal to the population of travelers, namely mobile applications that promise to save time.  This research aims to test the design of a low-fidelity travel application on human performance, gain knowledge on perceived needs from a sample of travelers, refine and test the high fidelity iteration of the application on direct and indirect input devices.  Two prototypes of travel applications were designed, web and mobile based respectively. A System Usability Scale questionnaire was prepared and used to assess travelers’ perception. Pearson correlation coefficient, t-test, ANOVA test and Wilcoxon Signed-Rank test were used to analyze data and conduct an hypothesis testing on human performance and perception on a series of tasks. The final results clearly showed no statistically significant difference for the two prototypes and endorse the findings of similar research in the field. Future developments may include the influence of the social component on users’ perception or the comparison of human performance with different devices through Fitts’ predictive models and index of difficulty.
+
+# Keywords 
+Travel application; travelers; web; mobile; direct input; indirect input; low-fidelity; high-fidelity; ANOVA; t-test; Wilcoxon Rank; System Usability Scale.
+
+# DOI Research Paper
