@@ -6,3 +6,4 @@ It is undeniable the increased need of traveling after the pandemic crisis ended
 Travel application; travelers; web; mobile; direct input; indirect input; low-fidelity; high-fidelity; ANOVA; t-test; Wilcoxon Rank; System Usability Scale.
 
 # DOI Research Paper
+http://dx.doi.org/10.13140/RG.2.2.21899.60966
